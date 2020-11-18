@@ -1,0 +1,49 @@
+==> 2020-11-18 19:56:47 <==
+# cmd: C:\Users\ilham\anaconda3\Scripts\conda-env-script.py create --prefix ./env --file environement.yml
+# conda version: 4.8.4
++anaconda/noarch::gast-0.4.0-py_0
++anaconda/noarch::importlib-metadata-2.0.0-py_1
++anaconda/noarch::keras-applications-1.0.8-py_1
++anaconda/noarch::keras-preprocessing-1.1.0-py_1
++anaconda/noarch::six-1.15.0-py_0
++anaconda/noarch::tensorflow-estimator-1.14.0-py_0
++anaconda/noarch::werkzeug-1.0.1-py_0
++anaconda/noarch::wheel-0.35.1-py_0
++anaconda/noarch::zipp-3.3.1-py_0
++anaconda/win-64::_tflow_select-2.2.0-eigen
++anaconda/win-64::absl-py-0.10.0-py37_0
++anaconda/win-64::astor-0.8.1-py37_0
++anaconda/win-64::blas-1.0-mkl
++anaconda/win-64::certifi-2020.6.20-py37_0
++anaconda/win-64::grpcio-1.12.1-py37h1a1b453_0
++anaconda/win-64::h5py-2.8.0-py37hf7173ca_0
++anaconda/win-64::hdf5-1.8.18-vc14h7a021fe_0
++anaconda/win-64::icc_rt-2019.0.0-h0cc432a_1
++anaconda/win-64::intel-openmp-2020.2-254
++anaconda/win-64::keras-2.3.1-0
++anaconda/win-64::keras-base-2.3.1-py37_0
++anaconda/win-64::libprotobuf-3.13.0.1-h200bbdf_0
++anaconda/win-64::markdown-3.3.2-py37_0
++anaconda/win-64::mkl-2019.4-245
++anaconda/win-64::mkl-service-2.3.0-py37hb782905_0
++anaconda/win-64::mkl_fft-1.2.0-py37h45dec08_0
++anaconda/win-64::mkl_random-1.1.0-py37h675688f_0
++anaconda/win-64::numpy-1.19.1-py37h5510c5b_0
++anaconda/win-64::numpy-base-1.19.1-py37ha3acd2a_0
++anaconda/win-64::pip-20.2.4-py37_0
++anaconda/win-64::protobuf-3.13.0.1-py37ha925a31_1
++anaconda/win-64::python-3.7.1-h33f27b4_4
++anaconda/win-64::pyyaml-5.3.1-py37he774522_0
++anaconda/win-64::scipy-1.5.2-py37h9439919_0
++anaconda/win-64::setuptools-50.3.0-py37h9490d1a_1
++anaconda/win-64::tensorboard-1.14.0-py37he3c9ec2_0
++anaconda/win-64::tensorflow-1.14.0-eigen_py37hcf3f253_0
++anaconda/win-64::tensorflow-base-1.14.0-eigen_py37hdbc3f0e_0
++anaconda/win-64::termcolor-1.1.0-py37_1
++anaconda/win-64::vc-14.1-h0510ff6_4
++anaconda/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_3
++anaconda/win-64::wincertstore-0.2-py37_0
++anaconda/win-64::wrapt-1.12.1-py37he774522_1
++anaconda/win-64::yaml-0.1.7-vc14h4cb57cf_1
++anaconda/win-64::zlib-1.2.11-vc14h1cdd9ab_1
+# update specs: ['markdown==3.3.2=py37_0', 'certifi==2020.6.20=py37_0', 'absl-py==0.10.0=py37_0', 'h5py==2.8.0=py37hf7173ca_0', 'pip==20.2.4=py37_0', 'wheel==0.35.1=py_0', 'wincertstore==0.2=py37_0', 'gast==0.4.0=py_0', 'werkzeug==1.0.1=py_0', 'mkl-service==2.3.0=py37hb782905_0', 'python==3.7.1=h33f27b4_4', 'zipp==3.3.1=py_0', 'setuptools==50.3.0=py37h9490d1a_1', 'keras==2.3.1=0', 'numpy-base==1.19.1=py37ha3acd2a_0', 'tensorboard==1.14.0=py37he3c9ec2_0', 'tensorflow-estimator==1.14.0=py_0', 'wrapt==1.12.1=py37he774522_1', 'vc==14.1=h0510ff6_4', 'keras-applications==1.0.8=py_1', 'mkl==2019.4=245', 'blas==1.0=mkl', 'astor==0.8.1=py37_0', 'grpcio==1.12.1=py37h1a1b453_0', 'icc_rt==2019.0.0=h0cc432a_1', 'scipy==1.5.2=py37h9439919_0', 'zlib==1.2.11=vc14h1cdd9ab_1', 'six==1.15.0=py_0', '_tflow_select==2.2.0=eigen', 'tensorflow-base==1.14.0=eigen_py37hdbc3f0e_0', 'yaml==0.1.7=vc14h4cb57cf_1', 'libprotobuf==3.13.0.1=h200bbdf_0', 'keras-base==2.3.1=py37_0', 'mkl_random==1.1.0=py37h675688f_0', 'tensorflow==1.14.0=eigen_py37hcf3f253_0', 'keras-preprocessing==1.1.0=py_1', 'hdf5==1.8.18=vc14h7a021fe_0', 'pyyaml==5.3.1=py37he774522_0', 'numpy==1.19.1=py37h5510c5b_0', 'importlib-metadata==2.0.0=py_1', 'intel-openmp==2020.2=254', 'vs2015_runtime==14.16.27012=hf0eaf9b_3', 'termcolor==1.1.0=py37_1', 'protobuf==3.13.0.1=py37ha925a31_1', 'mkl_fft==1.2.0=py37h45dec08_0']

@@ -1,0 +1,37 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [
+    "keras-base 2.3.1.*",
+    "tensorflow"
+  ],
+  "extracted_package_dir": "C:\\Users\\ilham\\anaconda3\\pkgs\\keras-2.3.1-0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "keras-2.3.1-0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\ilham\\anaconda3\\pkgs\\keras-2.3.1-0",
+    "type": 1
+  },
+  "md5": "f6f8b18aaab2f19cdd042b4ea0494565",
+  "name": "keras",
+  "package_tarball_full_path": "C:\\Users\\ilham\\anaconda3\\pkgs\\keras-2.3.1-0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "keras==2.3.1=0",
+  "sha256": "c0409bde2f74583098aeaea9e7c23668705c76e6ad77af37f2b185169c8ac6ca",
+  "size": 5905,
+  "subdir": "win-64",
+  "timestamp": 1582215142468,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/win-64/keras-2.3.1-0.tar.bz2",
+  "version": "2.3.1"
+}

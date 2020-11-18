@@ -1,0 +1,40 @@
+{
+  "build": "eigen_py37hcf3f253_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [
+    "_tflow_select ==2.2.0 eigen",
+    "python 3.7.*",
+    "tensorboard >=1.14.0,<1.15.0",
+    "tensorflow-base ==1.14.0 eigen_py37hdbc3f0e_0",
+    "tensorflow-estimator >=1.14.0,<1.15.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\ilham\\anaconda3\\pkgs\\tensorflow-1.14.0-eigen_py37hcf3f253_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "tensorflow-1.14.0-eigen_py37hcf3f253_0.tar.bz2",
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\ilham\\anaconda3\\pkgs\\tensorflow-1.14.0-eigen_py37hcf3f253_0",
+    "type": 1
+  },
+  "md5": "5f2464981bcdecea04608243c7d5613f",
+  "name": "tensorflow",
+  "package_tarball_full_path": "C:\\Users\\ilham\\anaconda3\\pkgs\\tensorflow-1.14.0-eigen_py37hcf3f253_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "tensorflow==1.14.0=eigen_py37hcf3f253_0",
+  "sha256": "e81b388e1151ed4ff610847ef19121ec1e8414dfce4cab11d53a93d0a2976f4e",
+  "size": 4382,
+  "subdir": "win-64",
+  "timestamp": 1565614929097,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/win-64/tensorflow-1.14.0-eigen_py37hcf3f253_0.tar.bz2",
+  "version": "1.14.0"
+}
